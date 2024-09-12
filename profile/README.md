@@ -1,8 +1,8 @@
 <a href="https://fucina.studio">
-  <img alt="Open source product foundry" src="/">
+  <img alt="Open source product foundry" src="https://github.com/fucinastudio/.github/assets/cover">
 </a>
 
-  <h3 align="center">Fuc</h3>
+  <h3 align="center">Fucina</h3>
 
   <p align="center">
     Open source product foundry.
