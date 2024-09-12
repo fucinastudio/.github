@@ -1,5 +1,5 @@
 <a href="https://fucina.studio">
-  <img alt="Open source product foundry" src="https://github.com/fucinastudio/.github/assets/cover">
+  <img alt="Open source product foundry" src="https://github.com/fucinastudio/.github/blob/main/assets/cover.png">
 </a>
 
   <h3 align="center">Fucina</h3>
